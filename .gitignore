@@ -30,8 +30,3 @@ build/
 gradle/
 gradlew
 gradlew.bat
-.gitignore
-build.gradle
-data.sql
-settings.gradle
-src/
