@@ -16,6 +16,7 @@ public class Airport {
     private String country;
     private String iata;
     private String icao;
+    private String test;
 
 
     public int getId() {
