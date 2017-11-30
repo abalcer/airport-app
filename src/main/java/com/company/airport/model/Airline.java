@@ -17,6 +17,7 @@ public class Airline {
     private boolean active;
     private String iata;
     private String icao;
+    private int emptyVal;
 
 
     public int getId() {
